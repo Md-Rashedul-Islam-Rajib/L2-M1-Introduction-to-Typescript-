@@ -16,7 +16,7 @@
     //array
     let friends = ['a', 'b', 'c'];
     let friendsAge = [11, 12, 13];
-    //tuple / ordered-array / controlled-index-array
+    //tuple / ordered-array / controled-index-array
     let coordinates = [63, 25];
     let person = ["Mr x", 69, true];
 }
