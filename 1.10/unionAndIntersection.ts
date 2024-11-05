@@ -43,10 +43,10 @@
 
     type normalMobile = Android & Iphone;
 
-    // const mobile: normalMobile = {
-    //     android: true,
+    const mobile: normalMobile = {
+        android: true,
 
-    // }
+    }
 
 
 
