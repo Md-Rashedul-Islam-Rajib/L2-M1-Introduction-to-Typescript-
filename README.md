@@ -4,7 +4,8 @@
 To initialize a TypeScript configuration file, open the terminal and run the following command:
 
 ```bash
-tsc --init
+tsc --init 
+```
 
 
 ## Set Up a Root Directory for the TypeScript Compiler
