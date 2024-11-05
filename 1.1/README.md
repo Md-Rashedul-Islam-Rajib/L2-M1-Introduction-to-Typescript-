@@ -16,4 +16,4 @@ TypeScript addresses many of JavaScript's shortcomings, providing:
 
 ---
 
-TypeScript combines JavaScript’s flexibility with the reliability of a statically typed language, making it ideal for larger, more complex projects.
+Summary : TypeScript combines JavaScript’s flexibility with the reliability of a statically typed language, making it ideal for larger, more complex projects.
