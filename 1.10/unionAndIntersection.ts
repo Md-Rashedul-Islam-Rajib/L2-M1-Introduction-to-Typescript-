@@ -19,7 +19,7 @@
         keyboard: string;
     }
 
-    type PC = Laptop | Desktop;  //union types
+    type PC = Laptop | Desktop;  //union types : it is used for choosing either one of the types
 
 
     type Iphone = {
@@ -41,12 +41,9 @@
         customizable: boolean;
     }
 
-    type normalMobile = Android & Iphone;
+    type normalMobile = Android & Iphone; // this is used for combine two different types into one type
 
-    const mobile: normalMobile = {
-        android: true,
-
-    }
+    
 
 
 
